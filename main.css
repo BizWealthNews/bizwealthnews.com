@@ -21,7 +21,7 @@ header {
 }
 
 nav {
-    background-color: #202932; /* Changed from blue to #202932 */
+    background-color: #202932;
     color: #1AA8AF; /* Changed from red to #1AA8AF */
     padding: 10px;
     text-align: center;
@@ -37,7 +37,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #1AA8AF; /* Changed from red to #1AA8AF */
+    color: #1AA8AF;
     text-decoration: none;
     font-weight: bold;
 }
@@ -47,8 +47,8 @@ nav ul li a:hover {
 }
 
 footer {
-    background-color: #202932; /* Changed from blue to #202932 */
-    color: #1AA8AF; /* Changed from red to #1AA8AF */
+    background-color: #202932;
+    color: #1AA8AF;
     text-align: center;
     padding: 10px;
     position: fixed;
