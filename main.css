@@ -10,8 +10,8 @@ body {
 }
 
 header {
-    background-color: #202932; /* Changed from blue to #202932 */
-    color: #1AA8AF; /* Changed from red to #1AA8AF */
+    background-color: #202932;
+    color: #1AA8AF;
     padding: 20px;
     text-align: center;
 }
